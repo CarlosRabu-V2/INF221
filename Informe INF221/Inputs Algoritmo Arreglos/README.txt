@@ -1,0 +1,1 @@
+En esta carpeta se encontrarán los inputs que probé para los algoritmos de ordenamiento, en el archivo "input.txt" encontrarán los primeros 8 que se prueban según mi informe, y el resto están determinados por el nombre. Esto ocurre debido a que los otros 4 archivos tienen 10.000 elementos cada arreglo, y se me dificultó unirlos en un solo archivo
